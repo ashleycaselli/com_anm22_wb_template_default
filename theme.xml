@@ -1,0 +1,16 @@
+<xml>
+  <theme>THEME NAME</theme>
+  <author>ANM22</author>
+  <version>1.0</version>
+  <defaultWebTemplate>pageDefault</defaultWebTemplate>
+  <defaultEmailTemplate></defaultEmailTemplate>
+  <templates>
+    <template>
+      <name>Page Default</name>
+      <page>pageDefault</page>
+      <previewImage>themePreview.png</previewImage>
+      <noWeb>0</noWeb>
+      <email>0</email>
+    </template>
+   </templates>
+</xml>
