@@ -1,3 +1,6 @@
 .sass-cache
 *.sketch
 *.map
+node_modules/
+.env
+deploy/
