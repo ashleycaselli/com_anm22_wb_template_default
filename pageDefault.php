@@ -16,10 +16,10 @@
 	<!--JQuery-->
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 	<!--Customized JS files-->
-	<script src="<?=$this->getThemeFolderRelativeHTMLURL()?>js/graphics.js"></script>
-	<script src="<?=$this->getThemeFolderRelativeHTMLURL()?>js/jquery.magnific-popup.js"></script>
-	<script src="<?=$this->getThemeFolderRelativeHTMLURL()?>js/jquery.cookie.js"></script>
-	<script src="<?=$this->getThemeFolderRelativeHTMLURL()?>js/cookies.js"></script>
+	<script src="<?=$this->getThemeFolderRelativeHTMLURL()?>js/graphics.min.js"></script>
+	<script src="<?=$this->getThemeFolderRelativeHTMLURL()?>js/jquery.magnific-popup.min.js"></script>
+	<script src="<?=$this->getThemeFolderRelativeHTMLURL()?>js/jquery.cookie.min.js"></script>
+	<script src="<?=$this->getThemeFolderRelativeHTMLURL()?>js/cookies.min.js"></script>
 <style>
 body{
 	margin: 0;
