@@ -11,7 +11,7 @@
     "watch": "gulp"
   },
   "devDependencies": {
-    "autoprefixer": "9.5.1",
+    "autoprefixer": "9.8.8",
     "browser-sync": "^2.26.7",
     "dotenv": "^8.2.0",
     "gulp": "^4.0.1",
